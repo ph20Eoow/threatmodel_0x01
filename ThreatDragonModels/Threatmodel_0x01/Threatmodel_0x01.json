@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "Threatmodel_0x01",
+    "owner": "tlee"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "tlee"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Identity Threat Model",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "diagramType": "STRIDE",
+        "id": 0
+      }
+    ],
+    "reviewer": "tlee"
+  }
+}
